@@ -1,0 +1,6 @@
+requests
+httpx
+weaviate-client
+polars
+uvicorn
+fastapi
